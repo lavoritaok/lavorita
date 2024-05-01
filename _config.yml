@@ -1,10 +1,10 @@
 # Site settings
-title: Your Title Here
+title: Lavorita - Tu trabajo en Italia
 description: > # this means to ignore newlines until "baseurl:"
 repository: vvalchev/creative-theme-jekyll-new
-baseurl: "/creative-theme-jekyll-new/" # the subpath of your site, e.g. /blog/
+baseurl: "/lavorita/" # the subpath of your site, e.g. /blog/
 url: "" # the base hostname & protocol for your site
-author: Copyright &copy; 2019 - Start Bootstrap
+author: Copyright &copy; 2024 - Lavorita
 lang: en_US
 
 # Build settings
