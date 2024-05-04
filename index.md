@@ -1,13 +1,14 @@
 ---
 layout: home
 header:
-  title: Lavorita, tu trabajo en Italia
+  title: LAVORITA
+  subtitle: TU TRABAJO EN ITALIA
   text: >
     Lavorita es el sitio sobre el empleo en Italia dedicado a la comunidad latina.
   action: # action button is optional
     label: Ver más
     url: '#acerca-de'
-    class: btn-secondary
+    class: btn-light
 
 
 sections:
@@ -63,10 +64,10 @@ sections:
         text: Abogada y Lic. en Psicopedagogía
         image: assets/img/members/person8.png
         url: '#'
-#      - title: Gary D. Stevens
-#        text: Bass guitar.
-#        image: assets/img/members/person2.jpg
-#        url: '#'
+      - title: Pablo Bonesi
+        text: Ing en Informática
+        image: assets/img/members/person9.png
+        url: '#'
 #      - title: Devon J. Fletcher
 #        text: Lead guitar.
 #        image: assets/img/members/person3.jpg
@@ -87,16 +88,13 @@ sections:
 
   - type: convenios.html
     section_id: convenios
+    #background_style: bg-green text-white
     #background_style: bg-info
     title: Convenios
     convenios:
-      - title: Próximamente...
-        text: 
+      - title: CAF Lavoro e Fisco de Alberto Gianella
+        text: via Matteo Bartoli 2/F, Torino<br/>via Ettore Bignone 38/A primo piano, Pinerolo<br/>Tel. 375-7251808<br/>sportellopatronato20@gmail.com<br/><br/><b>Atención en italiano y español</b>
         icon: bi-pen text-info
-
-#      - title: CAF Lavoro e Fisco Alberto Gianella
-#        text: Sedes en Torino y Pinerolo. Atención en italiano y español
-#        icon: bi-pen text-info
         #url: https://startbootstrap.com/
 #      - title: Autoscuola Ape
 #        text: Trámite de la patente guida italiana.
@@ -172,12 +170,15 @@ sections:
   - type: contacto.html
     section_id: contacto
     background_style: bg-info
-    title: Social Media y vías de contacto
+    title: Nuestras vías de contacto
     text: >-
       Seguinos a través de nuestras redes sociales para informarte y estar al tanto de las últimas novedades en materia laboral de Italia.
     actions:
 #    - title: +1 (202) 555-014
 #      icon: bi-telephone-fill
+    - title: E-Mail
+      icon: bi-envelope-fill
+      url: mailto:lavoritaok@gmail.com
     - title: '@lavor_ita'
       icon: bi-instagram
       url: 'https://www.instagram.com/lavor_ita'
@@ -185,13 +186,10 @@ sections:
       icon: bi-facebook
       url: 'https://www.facebook.com/lavoritaok'
     - title: '@lavoritaok'
-      icon: bi-youtube
-      url: 'https://www.youtube.com/@lavoritaok'
-    - title: '@lavoritaok'
       icon: bi-twitter
       url: 'https://twitter.com/lavoritaok'
-    - title: E-Mail
-      icon: bi-envelope-fill
-      url: mailto:lavoritaok@gmail.com
+    - title: '@lavoritaok'
+      icon: bi-youtube
+      url: 'https://www.youtube.com/@lavoritaok'
 
 ---

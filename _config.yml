@@ -5,7 +5,7 @@ repository: vvalchev/creative-theme-jekyll-new
 baseurl: "/lavorita/" # the subpath of your site, e.g. /blog/
 url: "" # the base hostname & protocol for your site
 author: Copyright &copy; 2024 - Lavorita
-lang: en_US
+lang: es
 
 # Build settings
 safe: true # always trues on github-pages, disables _plugins/
